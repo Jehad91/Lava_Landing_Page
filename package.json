@@ -1,0 +1,14 @@
+{
+  "name": "lava_landing_page",
+  "version": "1.0.0",
+  "description": "Lava Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jehad Jawad",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
